@@ -1,4 +1,4 @@
-API_TOKEN = '498365848:AAFBSemwBgyMMRCU3advBEMpQOa_mKRneDU'
+API_TOKEN = '643454101:AAGai-egLH_u5PymisK5lLB8b5dos25ruOw'
 
 MAGAZINS = ({
     'tile':'',
